@@ -1,0 +1,22 @@
+.body {
+  color: #66100d;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #b3ece8;
+  
+  }
+
+.h1 {
+  font-size: 80px;
+}
+
+.h2 {
+  padding: 40px 600px 20px 40px;
+  text-decoration: underline;
+}
+
+.list {
+  font-weight: bold;
+  display: inline-block;
+  
+}
